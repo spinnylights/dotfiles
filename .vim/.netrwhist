@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/zonodon/Applications/code/Ruby/rails/garden_mate/app/views/devise/passwords'
+let g:netrw_dirhist_2='/Users/zonodon/Applications/code/ruby/rails/garden_mate'
+let g:netrw_dirhist_3='/Users/zonodon/Applications/code/ruby/goaltime/lib/goaltime'
+let g:netrw_dirhist_4='/Users/zonodon/Applications/code/ruby/poiesis/lib/poiesis'
+let g:netrw_dirhist_5='/Users/zonodon/Applications/code/ruby/poiesis/features/support'
+let g:netrw_dirhist_6='/home/tenfoxes/lib/pkgconfig'
+let g:netrw_dirhist_7='/home/tenfoxes/media/Documents/fiction'
+let g:netrw_dirhist_8='/home/tenfoxes/.anthy'
